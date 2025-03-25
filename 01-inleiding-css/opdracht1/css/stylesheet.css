@@ -1,0 +1,19 @@
+body {
+    background-color:khaki;
+}
+
+h1 {
+    color:red;
+}
+
+h2 {
+    color:orange;
+}
+
+p {
+    color:green;
+}
+
+p:last-of-type {
+    color:blue;
+}
