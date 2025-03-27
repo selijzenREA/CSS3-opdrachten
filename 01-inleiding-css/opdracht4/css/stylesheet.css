@@ -1,0 +1,33 @@
+body {
+    background-color:lightblue;
+}
+
+h1 {
+    font-family: fantasy, Copperplate, Papyrus;
+    color:rgb(255,127,80);
+
+}
+
+p {
+    color:rgb(110,105,225);
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: "Courier New", Courier, monospace;
+}
+
+h2 {
+    color:rgb(255,0,255);
+}
+
+h2:last-of-type {
+    color:rgb(238, 130, 238);
+}
+
+ul {
+    list-style-type: hiragana;
+    color:green;
+    font-family: "Courier New", Courier, monospace;
+}
+
