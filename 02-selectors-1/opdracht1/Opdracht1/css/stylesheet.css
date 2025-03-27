@@ -1,0 +1,24 @@
+body {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+
+.flanders {
+        color:gold;
+        list-style-type: circle;
+}
+
+.wallonia {
+    color:red;
+    list-style-type: circle;
+    font-style: inherit;
+}
+
+.greatest-area {
+    font-weight: bold;
+}
+
+.most-populous {
+    font-style: italic;
+}
