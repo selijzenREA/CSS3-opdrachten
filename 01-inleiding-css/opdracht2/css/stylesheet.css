@@ -1,0 +1,19 @@
+body {
+    background-color: hsl(54, 77%, 75%); /
+}
+
+h1 {
+    color: rgb(200, 0, 0); 
+}
+
+h2 {
+    color: rgb(255, 165, 0); 
+}
+
+p {
+    color: #09ff01; 
+}
+
+p:last-of-type {
+    color: hsl(240, 100%, 50%); 
+}
