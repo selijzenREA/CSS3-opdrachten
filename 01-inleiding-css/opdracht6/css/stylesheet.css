@@ -1,0 +1,11 @@
+.cursor-button {
+    cursor: pointer;
+}
+
+#progress {
+    cursor: wait;
+}
+
+#pirate {
+    cursor: not-allowed;
+}
