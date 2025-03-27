@@ -1,0 +1,13 @@
+body {
+	font-size: 18px;
+	font-family: Tahoma, Arial, sans-serif;
+}
+#container {
+	max-width: 1200px;
+	min-height: 600px;
+	margin: 0 auto;
+}
+
+#bijgeloof {
+	clear: both;
+}
