@@ -1,0 +1,25 @@
+body {
+    font-size:18px;
+    font-family:Verdana;
+}
+
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    font-style: italic;
+    text-decoration:none;
+    color:black;
+}
+
+ul {
+    font-weight:bold;
+    list-style-type:square;
+    list-style-position:inside;
+}
+
+ul:last-of-type {
+    list-style-position:outside;
+}
+
