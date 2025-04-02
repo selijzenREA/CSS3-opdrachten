@@ -1,0 +1,29 @@
+body {
+    background-color:lightgrey;
+}
+
+.container {
+    width:1200px;
+    margin: 0 auto;
+    background-color:white;
+}
+
+header {
+    height: 185px;
+    background-color:black;
+}
+
+nav {
+    height: 75px;
+    background-color:brown;
+}
+
+footer {
+    height:40px;
+    background-color:darkcyan;
+}
+
+section {
+    min-height:400px;
+    
+}
