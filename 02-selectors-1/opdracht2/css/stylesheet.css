@@ -1,0 +1,64 @@
+html {
+    font-family: 'Book Antiqua';
+}
+
+ol {
+    list-style-type: upper-roman;
+    margin-bottom:68px;
+}
+
+hr {
+    margin-bottom: 68px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+#algemeen {
+    color:red;
+}
+
+#geschiedenis {
+    color:orange;
+}
+
+#politiek {
+    color:yellow;
+}
+
+#demografie {
+    color:green;
+}
+
+#economie {
+    color:blue;
+}
+
+#kunst {
+    color:violet;
+}
+
+#algemeen-link {
+    color:red;
+}
+
+#geschiedenis-link {
+    color:orange;
+}
+
+#politiek-link {
+    color:yellow;
+}
+
+#demografie-link {
+    color:green;
+}
+
+#economie-link {
+    color:blue;
+}
+
+#kunst-link {
+    color:violet;
+}
