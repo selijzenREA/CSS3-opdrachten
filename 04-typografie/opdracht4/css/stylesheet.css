@@ -1,0 +1,38 @@
+html {
+    font-size:20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Bungee&family=Bungee+Tint&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: 'OldLondon';
+    src: url('/fonts/OldLondon.ttf');
+    
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('/fonts/BebasNeue-Regular.otf');
+}
+
+
+
+body {
+    font-family: 'OldLondon', sans-serif;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-family:'BebasNeue', sans-serif;
+}
+
+h2 {
+    font-size:1.75em;
+    font-family:'Bungee Tint', sans-serif;
+}
+
+blockquote {
+    writing-mode:vertical-rl;
+    font-size:1.25em;
+    font-family: 'Bungee', sans-serif;
+}
