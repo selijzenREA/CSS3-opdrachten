@@ -1,0 +1,33 @@
+body {
+    background-color:black;
+}
+
+img {
+    border-style:solid;
+    border: 5px solid tomato;
+    opacity: 75%;
+
+}
+
+img:hover {
+    opacity:100%;
+    cursor:pointer;
+}
+
+.image {
+    display:flex;
+    flex-flow:row wrap;
+    gap: 20px;
+    max-width:100%;
+    height: auto;
+    
+}
+
+figcaption {
+    color: white;
+    text-align:center;
+    font-weight: bold;
+    text-shadow:2px 2px tomato;
+
+}
+
