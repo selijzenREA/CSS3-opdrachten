@@ -40,7 +40,8 @@ header::after {
     background: url("../images/China_dragon.svg") no-repeat right;
 	background-size: 40%;
     position: absolute;
-    inset: 0;
+    height:100%;
+	width:100%;
 }
 
 
@@ -107,7 +108,8 @@ footer {
 }
 
 #background::after {
-	inset: 0;
+	width:100%;
+	height:100%;
 	content: "";
 	background: url("../images/noodles-bowl.png");
 	background-repeat: no-repeat;
@@ -115,7 +117,3 @@ footer {
 	left: 20px;
 	background-blend-mode: multiply;
 }
-
-
-
-
